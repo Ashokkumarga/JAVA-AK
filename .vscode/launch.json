@@ -1,0 +1,56 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Switch",
+      "request": "launch",
+      "mainClass": "Switch",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch Conditional2",
+      "request": "launch",
+      "mainClass": "Conditional2",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
+      "name": "Launch ConditionalStatements",
+      "request": "launch",
+      "mainClass": "ConditionalStatements",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
+      "name": "Launch Firstprogram",
+      "request": "launch",
+      "mainClass": "Firstprogram",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
+      "name": "Launch Star",
+      "request": "launch",
+      "mainClass": "Star",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
+      "name": "Launch Variables1",
+      "request": "launch",
+      "mainClass": "Variables1",
+      "projectName": "JAVA_1c386453"
+    }
+  ]
+}
