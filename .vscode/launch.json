@@ -6,6 +6,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Tables",
+      "request": "launch",
+      "mainClass": "Programs.Tables",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
+      "name": "Launch Sum1",
+      "request": "launch",
+      "mainClass": "Programs.Sum1",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
+      "name": "Launch Sum",
+      "request": "launch",
+      "mainClass": "Programs.Sum",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
+      "name": "Launch SumN",
+      "request": "launch",
+      "mainClass": "Programs.SumN",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
+      "name": "Launch Dowhile",
+      "request": "launch",
+      "mainClass": "Dowhile",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
+      "name": "Launch Whileloop",
+      "request": "launch",
+      "mainClass": "Whileloop",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
+      "name": "Launch Forloop",
+      "request": "launch",
+      "mainClass": "Forloop",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
       "name": "Launch Switch",
       "request": "launch",
       "mainClass": "Switch",
