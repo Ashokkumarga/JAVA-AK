@@ -10,6 +10,5 @@ class Tables{
             table = table*i;
         System.out.println(table);
         }
-
     }
 }
