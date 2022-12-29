@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch InvertedNumber",
+      "request": "launch",
+      "mainClass": "InvertedNumber",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
+      "name": "Launch NumerPattern",
+      "request": "launch",
+      "mainClass": "NumerPattern",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
+      "name": "Launch PatternInverted",
+      "request": "launch",
+      "mainClass": "PatternInverted",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
+      "name": "Launch PatternHalfPyramid",
+      "request": "launch",
+      "mainClass": "PatternHalfPyramid",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
       "name": "Launch PatternPyramid",
       "request": "launch",
       "mainClass": "PatternPyramid",
