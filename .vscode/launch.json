@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch PatternPyramid",
+      "request": "launch",
+      "mainClass": "PatternPyramid",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
       "name": "Launch PatternHollow",
       "request": "launch",
       "mainClass": "PatternHollow",
