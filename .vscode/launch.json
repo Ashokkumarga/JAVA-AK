@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Triangle01",
+      "request": "launch",
+      "mainClass": "Triangle01",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
+      "name": "Launch FloydsTriangle",
+      "request": "launch",
+      "mainClass": "FloydsTriangle",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
       "name": "Launch InvertedNumber",
       "request": "launch",
       "mainClass": "InvertedNumber",
