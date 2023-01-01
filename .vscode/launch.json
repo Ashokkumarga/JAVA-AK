@@ -6,6 +6,83 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch ButterFlyPattern",
+      "request": "launch",
+      "mainClass": "ButterFlyPattern",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
+      "name": "Launch Divisible",
+      "request": "launch",
+      "mainClass": "Divisible",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
+      "name": "Launch GreatestPart2",
+      "request": "launch",
+      "mainClass": "GreatestPart2",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
+      "name": "Launch Greatest3",
+      "request": "launch",
+      "mainClass": "Greatest3",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
+      "name": "Launch Least",
+      "request": "launch",
+      "mainClass": "Least",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
+      "name": "Launch Greatest",
+      "request": "launch",
+      "mainClass": "Greatest",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
+      "name": "Launch EvenOdd",
+      "request": "launch",
+      "mainClass": "EvenOdd",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
+      "name": "Launch ThreeDigit",
+      "request": "launch",
+      "mainClass": "ThreeDigit",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
+      "name": "Launch PosNeg",
+      "request": "launch",
+      "mainClass": "PosNeg",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
+      "name": "Launch CS1",
+      "request": "launch",
+      "mainClass": "CS1",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
+      "name": "Launch CS",
+      "request": "launch",
+      "mainClass": "CS",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
       "name": "Launch Triangle01",
       "request": "launch",
       "mainClass": "Triangle01",
