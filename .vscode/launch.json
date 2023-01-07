@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Reverse",
+      "request": "launch",
+      "mainClass": "Reverse",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
+      "name": "Launch NewYear",
+      "request": "launch",
+      "mainClass": "NewYear",
+      "projectName": "JAVA_1c386453"
+    },
+    {
+      "type": "java",
       "name": "Launch ButterFlyPattern",
       "request": "launch",
       "mainClass": "ButterFlyPattern",
